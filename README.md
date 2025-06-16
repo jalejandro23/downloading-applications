@@ -20,7 +20,7 @@ Open your terminal and run this to install Homebrew: /bin/bash -c "$(curl -fsSL 
 
 1️⃣ Download the Brewfile:
 
-curl -O https://raw.githubusercontent.com/jalejandro23/downloading-applications/main/Brewfile
+curl -O https://raw.githubusercontent.com/jalejandro23/downloading-applications/refs/heads/main/Brewfile%20(downloading%20applications)
 
 2️⃣ Run it:
 
