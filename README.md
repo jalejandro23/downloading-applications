@@ -25,7 +25,7 @@ Slack
 
 2️⃣ Download the Brewfile
 
-curl -O https://raw.githubusercontent.com/jalejandro23/downloading-applications/refs/heads/main/Brewfile%20(downloading%20applications)
+curl -O https://raw.githubusercontent.com/jalejandro23/downloading-applications/main/Brewfile
 
 
 3️⃣ Run the Brewfile to install all apps:
