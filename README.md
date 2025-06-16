@@ -3,6 +3,7 @@ This is a simple and efficient Brewfile designed to help automate the setup of M
 Whether you're configuring a new MacBook or re-imaging a machine, this file helps ensure consistency across devices.
 
 📦 What's included?
+
 This Brewfile currently installs:
 
 Google Chrome
@@ -14,9 +15,13 @@ Slack
 (More apps can easily be added as needed.)
 
 ⚡ How to use (in your terminal)
+
+Open your terminal and run this to install Homebrew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 1️⃣ Download the Brewfile:
 
-curl -O https://raw.githubusercontent.com/yourusername/mac-setup/main/Brewfile
+curl -O https://raw.githubusercontent.com/jalejandro23/downloading-applications/main/Brewfile
+
 2️⃣ Run it:
 
 brew bundle --file=Brewfile
