@@ -31,3 +31,11 @@ curl -O https://raw.githubusercontent.com/jalejandro23/downloading-applications/
 3️⃣ Run the Brewfile to install all apps:
 
 brew bundle --file=Brewfile
+
+## Alternative Method
+
+Use one command in your terminal:
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" && \
+curl -O https://raw.githubusercontent.com/jalejandro23/downloading-applications/main/Brewfile && \
+brew bundle --file=Brewfile
